@@ -9,9 +9,5 @@
   {
     "package": "expss",
     "oncran": true
-  },
-  {
-    "package": "maditr",
-    "oncran": true
   }
 ]

@@ -18,8 +18,3 @@
 	url = https://github.com/gdemin/expss
 	shallow = true
 	registered = true
-[submodule "maditr"]
-	path = maditr
-	url = https://github.com/gdemin/maditr
-	shallow = true
-	registered = true
