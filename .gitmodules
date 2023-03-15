@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "comprehenr"]
-	path = comprehenr
-	url = https://github.com/gdemin/comprehenr
-	shallow = true
-	registered = true
 [submodule "excel.link"]
 	path = excel.link
 	url = https://github.com/gdemin/excel.link
@@ -21,5 +16,10 @@
 [submodule "maditr"]
 	path = maditr
 	url = https://github.com/gdemin/maditr
+	shallow = true
+	registered = true
+[submodule "comprehenr"]
+	path = comprehenr
+	url = https://github.com/gdemin/comprehenr
 	shallow = true
 	registered = true
