@@ -1,5 +1,9 @@
 [
   {
+    "package": "comprehenr",
+    "oncran": true
+  },
+  {
     "package": "excel.link"
   },
   {
@@ -8,10 +12,6 @@
   },
   {
     "package": "maditr",
-    "oncran": true
-  },
-  {
-    "package": "comprehenr",
     "oncran": true
   }
 ]
