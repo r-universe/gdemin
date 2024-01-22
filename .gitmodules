@@ -5,9 +5,6 @@
 [submodule "comprehenr"]
 	path = comprehenr
 	url = https://github.com/gdemin/comprehenr
-[submodule "excel.link"]
-	path = excel.link
-	url = https://github.com/gdemin/excel.link
 [submodule "expss"]
 	path = expss
 	url = https://github.com/gdemin/expss
